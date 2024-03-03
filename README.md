@@ -15,4 +15,5 @@ Etapas Gerais:
 |_______________________________________________________________________________|
 
 Ideias Secundárias:
+* https://www.bigstockphoto.com/pt/image-89612147/stock-vector-pixel-art-set-of-chess-pieces/
 *Limite de tempo, possibilidade de gastar peças para ganhar tempo
